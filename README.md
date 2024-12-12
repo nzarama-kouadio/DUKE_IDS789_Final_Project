@@ -10,21 +10,21 @@ https://www.fdic.gov/quarterly-banking-profile
 
 ## Project Structure
 
-- 10_Datasets:
+- 10_Datasets: Storing all the datasets uttilized for the project.
 
-- 20_Data_Cleaning:
+- 20_Data_Cleaning: Cleaning the datasets.
 
-- 30_Prophet_Model:
+- 30_Prophet_Model: Explanation on how Prophet model was built.
 
-- 40_XGBoost_Model:
+- 40_XGBoost_Model: Explanation on how XGBoost model was built.
 
-- 50_LSTM_Model:
+- 50_LSTM_Model: Explanation on how LSTM model was built.
 
-- 60_ARIMA_Model:
+- 60_ARIMA_Model: Explanation on how ARIMA model was built.
 
-- 70_Stress_Testing:
+- 70_Stress_Testing: Explanation on how the Monte Carlo Simulation model was built.
 
 
 ## Install Requirements
 
-- To run the files please dinstall all required packages first.
+- To run the files please install all required packages first and update the path of the files to your own path.
