@@ -1,6 +1,8 @@
 # DUKE_IDS789_Final_Project
 Team 4: Deposit Forecasting and Stress Testing Deposits
 
+Collaborators: Nzarama Kouadio, Si Min Loo, Yanzi Chen and Jiayi Wang (Duke Students)
+
 ## Project Goal
 
 The goal of this project is to analyze and forecast the gross deposits of FDIC-insured banks under typical economic conditions using advanced modeling techniques such as ARIMA, LSTM, XGBoost and Prophet. By incorporating a stress test scenario (fed fund rate cut rate environment), the project aims to evaluate the potential impacts on bank deposits. This analysis provides actionable insights into the resilience of banks in response to economic shocks.
