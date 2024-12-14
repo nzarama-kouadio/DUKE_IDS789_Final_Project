@@ -28,13 +28,13 @@ https://www.fdic.gov/quarterly-banking-profile
 
 ## Results
 
-1. Model Predictions
+> 1. Model Predictions
 
-Winner: XGBoost Model
+**Winner: XGBoost Model**
 
 Comparing the MASE (Mean Absolute Scaled Error) across the four models, it is evident that the XGBoost model is the most effective for forecasting deposit levels of US. FDIC-insured banks. With a MASE of 0.1838, XGBoost significantly outperformed the other models in capturing the trends and patterns in the deposit data.
 
-2. Stress Test
+> 2. Stress Test
 
 The stress test simulated the impact of a 5% Federal Funds Rate reduction on the 2025 forecasted deposit level, which was $3.54 trillion. Using the sensitivity derived from the regression model, the Monte Carlo simulation generated 100,000 scenarios to estimate potential deposit outcomes under stress conditions.
 
