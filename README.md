@@ -1,7 +1,7 @@
 # DUKE_IDS789_Final_Project
-Team 4: Deposit Forecasting and Stress Testing Deposits
+Team 4: Deposit Forecasting and Stress Testing Bank Deposits
 
-Collaborators: Nzarama Kouadio, Si Min Loo, Yanzi Chen and Jiayi Wang (Duke Students)
+**Collaborators**: Nzarama Kouadio, Si Min Loo, Yanzi Chen and Jiayi Wang (Duke Students)
 
 ## Project Goal
 
